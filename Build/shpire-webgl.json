@@ -1,7 +1,7 @@
 {
 "companyName": "FBE Labs",
 "productName": "Sphire",
-"productVersion": "0.1",
+"productVersion": "0.1.1",
 "dataUrl": "shpire-webgl.data.unityweb",
 "wasmCodeUrl": "shpire-webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "shpire-webgl.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": true,
 "multithreading": false,
-"unityVersion": "2019.3.13f1"
+"unityVersion": "2019.4.0f1"
 }
